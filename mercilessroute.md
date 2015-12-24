@@ -527,4 +527,4 @@ the start of the attack.
 
 Don't comfort Asriel. It's faster.
 
-Mash through The End.
+Mash through The End
