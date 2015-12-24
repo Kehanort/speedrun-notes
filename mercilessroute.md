@@ -25,8 +25,8 @@ Name the Fallen Human a one character name.
 
 Enemy | `FIGHT` | Notes
 :---- | :---- | :----
-Froggit | `30HP | Green+Out` | Hitting his jump will end his action. Scripted Froggit needs to be near perfect.
-Whimsun | `10HP | Out` |
+Froggit | `30HP | `Green+Out` | Hitting his jump will end his action. Scripted Froggit needs to be near perfect.
+Whimsun | `10HP | `Out` |
 Moldsmal | `50HP | `Green+Red` |
 
 ### Flowey
@@ -60,8 +60,8 @@ Icecap | `50HP | Green` |
 Doggo | `Green+~Out` | Taking damage (moving) stops his action.
 Lesser Dog | `Yellow+Out` |
 Jerry | `Spare` | Kill him if he's the very last monster. Lots of greens.
-Chilldrake | `70~80HP | Green+Out |
-Married Dogs | `110HP | 2Green+Out` | Killing Dogaressa first makes Dogamy die in one hit.
+Chilldrake | `70~80HP | Green+Out` |
+Married Dogs | `110HP` | 2Green+Out` | Killing Dogaressa first makes Dogamy die in one hit.
 Greater Dog | `110HP | 2Green+Out` | Hitting him on the ground stops his action.
 
 Mash through everything until the save point room, get the Tough Glove from the box and equip it. Grind a Snowdrake on the save screen.
@@ -96,14 +96,14 @@ TG Moldsmal | `50 HP | Yellow` |
 BS Moldsmal | `50HP | GreenGreenYellow` |
 BS Shyren | `70HP | GreenGreenGreen` |
 BS Temmie | `10 hP | aUT` | bOI!!!!
-BS Aaron | `98 HP | GreenGreenGreen + GreenOutOut |
+BS Aaron | `98 HP | GreenGreenGreen + GreenOutOut` |
 BS Moldbygg | `80HP | GreenGreenGreen`|
 BS Woshua | `70HP | GreenGreenYellow` |
 
 
 Scripted Aaron and Woshua fights count as 2.
 
-- Undyne chase is just avoiding the spears, be careful not to get caught on the edge of a platform or you will get hit, the spears also seem to have weird hitboxes.
+Undyne chase is just avoiding the spears, be careful not to get caught on the edge of a platform or you will get hit, the spears also seem to have weird hitboxes.
 
 Go left in the bright room and walk to just before the Ballet Shoes room, grind a scripted 2 Moldsmal encounter then get the Ballet Shoes.
 
