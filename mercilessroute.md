@@ -57,12 +57,12 @@ Enemy | `FIGHT` | Notes
 :---- | :---- | :----
 Snowdrake | `70~80HP | Green+Red` |
 Icecap | `50HP | Green` |
-Doggo | `Green+~Out` | Taking damage (moving) stops his action.
+Doggo | `Green+~Out` | Running into his swords stops his action.
 Lesser Dog | `Yellow+Out` |
 Jerry | `Spare` | Kill him only if he's the very last monster. Lots of greens.
 Chilldrake | `70~80HP | Green+Out` |
 Married Dogs | `110HP | 2Green+Out` | Killing Dogaressa first makes Dogamy die in one hit.
-Greater Dog | `110HP | 2Green+Out` | Hitting him on the ground stops his action. Just hold down to every attack.
+Greater Dog | `110HP | 2Green+Out` | Running into him on the ground stops his action. Just start holding down in every attack.
 
 - Mash through everything until the save point room, get the Tough Glove from the box and equip it. Grind a Snowdrake on the save screen.
 
