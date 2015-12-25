@@ -1,4 +1,4 @@
--># Undertale - Genocide Route
+# Undertale - Genocide Route
 
 ## Records
 [speedrun.com](http://www.speedrun.com/undertale)
@@ -161,4 +161,4 @@ Enemy | `DECIMATE` | Notes
 :---- | :---- | :----
 Sans | `DUCK IT AND KEEP BRAWLING` | Use Sea Tea (if bought) when he tries to spare you, if you need full heal use the Instant Noodles. This fight is all about practice, it's pretty easy to pull off once you memorize all his patterns.
 
-- Run to Asgore and mash until you can choose to erase the world then hit the timer.<-
+- Run to Asgore and mash until you can choose to erase the world then hit the timer.
