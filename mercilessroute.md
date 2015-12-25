@@ -55,14 +55,14 @@ Toriel | `One Hit Kill`
 
 Enemy | `FIGHT` | Notes
 :---- | :---- | :----
-Snowdrake | `70~80HP | Green+Red` |
-Icecap | `50HP | Green` |
+Snowdrake | `74HP | Green+Red` |
+Icecap | `48HP | Green` |
 Doggo | `Green+~Out` | Running into his swords stops his action.
-Lesser Dog | `Yellow+Out` |
+Lesser Dog | `60HP | Yellow+Out` |
 Jerry | `Spare` | Kill him only if he's the very last monster. Lots of greens.
-Chilldrake | `70~80HP | Green+Out` |
-Married Dogs | `110HP | 2Green+Out` | Killing Dogaressa first makes Dogamy die in one hit.
-Greater Dog | `110HP | 2Green+Out` | Running into him on the ground stops his action. Just start holding down in every attack.
+Chilldrake | `74HP | Green+Out` |
+Married Dogs | `108HP | 2Green+Out` | Killing Dogaressa first makes Dogamy die in one hit.
+Greater Dog | `105HP | 2Green+Out` | Running into him on the ground stops his action. Just start holding down in every attack.
 
 - Mash through everything until the save point room, get the Tough Glove from the box and equip it. Grind a Snowdrake on the save screen.
 
@@ -90,10 +90,10 @@ TG Aaron | `98HP | Green+Red` |
 TG Woshua | `70HP | Out+Red` |
 TG Moldsmal | `50HP | Yellow` |
 BS Moldsmal | `50HP | GreenGreenYellow` |
-BS Shyren | `70HP | GreenGreenGreen` |
+BS Shyren | `66HP | GreenGreenGreen` |
 BS Temmie | `10hP | aUT` | bOI!!!!
 BS Aaron | `98HP | GreenGreenGreen + GreenOutOut` |
-BS Moldbygg | `80HP | GreenGreenGreen`|
+BS Moldbygg | `70HP | GreenGreenGreen`|
 BS Woshua | `70HP | GreenGreenYellow` |
 
 
@@ -128,15 +128,18 @@ Undyne | `23000 HP`| Hitting her perfectly (1700+) and not losing too many cycle
 
 Enemy | `FIGHT` | Notes
 :---- | :---- | :----
-Vulkin | `Flee` |
-Tsunderplane | `F-Flee!` |
-Pyrope | `Flee` |
+Vulkin | `20HP | Mash` |
+Tsunderplane | `80HP | GreenGreenGreen` |
+Pyrope | `110HP |
+Royal Guards | `150HP | YellowMash` |
+Muffet | `1200 HP | GreenMash` |
+Madjick | `190HP | AllGreen` |
+Knight Knight | `230HP | AllGreen` |
+Whimsalot | `95HP | AllGreen` |
+Final Froggit | `100HP | AllGreen` |
+Astigmatism | `120HP | AllGreen` |
 
 - Pick up the noodles from Alphys fridge for a full heal during Sans if you need it, they cost 2-3 seconds to get.
-
-- Scripted Vulkin can be hit from nearly anywhere.
-
-- Be very careful on Tsunderplane, it must be hit nearly perfect to avoid a 2 cycle (80 health).
 
 - Royal Guards die in 1 hit from almost anywhere, but can't be mashed through or they'll survive (hitting them in the yellow works fine).
 
