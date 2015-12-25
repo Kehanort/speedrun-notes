@@ -25,9 +25,9 @@ Name the Fallen Human a one character name.
 
 Enemy | `FIGHT` | Notes
 :---- | :---- | :----
-Froggit | `30HP | `Green+Out` | Hitting his jump will end his action. Scripted Froggit needs to be near perfect.
-Whimsun | `10HP | `Out` |
-Moldsmal | `50HP | `Green+Red` |
+Froggit | `30HP | Green+Out` | Hitting his jump will end his action. Scripted Froggit needs to be near perfect.
+Whimsun | `10HP | Out` |
+Moldsmal | `50HP | Green+Red` |
 
 ### Flowey
 - It's faster to hit the bullets. Run into them into the upper right corner, then into the circle at the bottom left.
@@ -56,7 +56,7 @@ Doggo | `Green+~Out` | Taking damage (moving) stops his action.
 Lesser Dog | `Yellow+Out` |
 Jerry | `Spare` | Kill him only if he's the very last monster. Lots of greens.
 Chilldrake | `70~80HP | Green+Out` |
-Married Dogs | `110HP` | 2Green+Out` | Killing Dogaressa first makes Dogamy die in one hit.
+Married Dogs | `110HP | 2Green+Out` | Killing Dogaressa first makes Dogamy die in one hit.
 Greater Dog | `110HP | 2Green+Out` | Hitting him on the ground stops his action. Just hold down to every attack.
 
 - Mash through everything until the save point room, get the Tough Glove from the box and equip it. Grind a Snowdrake on the save screen.
