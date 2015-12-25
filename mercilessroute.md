@@ -36,10 +36,15 @@ Moldsmal | `50HP | Green+Red` |
 - `ACT`: `Talk`
 
 - Scripted Froggit needs to be hit near perfectly to kill it in 1 hit and brings you to level 2 (doesn't count towards 20, still better to kill it). 
+
 - After getting to the save point room, grind an encounter just before going to the next room.
+
 - Next room fall down and go back up, grind an encounter in this room just before the exit to the next.
+
 - Switch back and forth between the single rock room and the one before it to get encounters faster. Some people do this with the save room and the one after it, there's no clear answer to which way is better. Get your 13th on the right side of the single rock room, all the others shouldn't activate Toriel's phone call. More Whimsun is always better.
+
 - The rest of the encounters are all done in the triple rock room only, so after getting one leaving and going back in to get the next. In Froggit+Whimsun fights, kill Whimsun first so you have a chance to skip the Froggit's attack. (Keep in mind most of the top runners reset if they don't leave this room by a certain time, usually 8:15.) RNG best>worst for the triple rock room depends on how many you went into the room with, but Moldsmal are the longest fight, Froggit+Whimsun is always good.
+
 - If you got 20 encounters Napstablook will fade away, mash through all the "but nobody came" and run to Toriel, skip the pie and go talk to her, say the first option for her first 2 questions and that you want to leave to the 3rd, then follow her.
 
 Enemy | `KILL`
