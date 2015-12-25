@@ -23,17 +23,17 @@ Name the Fallen Human a one character name.
 
 ## Ruins - 20 EXECUTIONS
 
-Enemy | `FIGHT` | Notes
-:---- | :---- | :----
-Froggit | `30HP | Green+Out` | Hitting his jump will end his action. Scripted Froggit needs to be near perfect.
-Whimsun | `10HP | Out` |
-Moldsmal | `50HP | Green+Red` |
-
 ### Flowey
 - It's faster to hit the bullets. Run into them into the upper right corner, then into the circle at the bottom left.
 
 ### Dummy
 - `ACT`: `Talk`
+
+Enemy | `FIGHT` | Notes
+:---- | :---- | :----
+Froggit | `30HP | Green+Out` | Hitting his jump will end his action. Scripted Froggit needs to be near perfect.
+Whimsun | `10HP | Out` |
+Moldsmal | `50HP | Green+Red` |
 
 - Scripted Froggit needs to be hit near perfectly to kill it in 1 hit and brings you to level 2 (doesn't count towards 20, still better to kill it). 
 
